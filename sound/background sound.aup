@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="background sound_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="0.0146938776" vpos="0" h="0.0000000000" zoom="5512.5000000000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="mixkit-coarse-tone-mic-distortion-2130" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42542">
+				<waveblock start="0">
+					<simpleblockfile filename="e08089fb.au" len="42542" min="-0.213793" max="0.220122" rms="0.101888"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.96467120" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42542">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a82.au" len="42542" min="-0.213793" max="0.220122" rms="0.101846"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.92934240" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42542">
+				<waveblock start="0">
+					<simpleblockfile filename="e08081b9.au" len="42542" min="-0.213793" max="0.220122" rms="0.101856"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="2.89401361" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42542">
+				<waveblock start="0">
+					<simpleblockfile filename="e08004b1.au" len="42542" min="-0.213793" max="0.220122" rms="0.101875"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="mixkit-coarse-tone-mic-distortion-2130" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42542">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808735.au" len="42542" min="-0.140854" max="0.142408" rms="0.055451"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.96467120" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42542">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a71.au" len="42542" min="-0.140854" max="0.142408" rms="0.055457"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.92934240" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42542">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808869.au" len="42542" min="-0.140854" max="0.142408" rms="0.055444"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="2.89401361" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42542">
+				<waveblock start="0">
+					<simpleblockfile filename="e0800644.au" len="42542" min="-0.140854" max="0.142408" rms="0.055444"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
